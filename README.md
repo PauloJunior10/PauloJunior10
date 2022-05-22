@@ -6,7 +6,7 @@
 Here are some ideas to get you started: -->
 
 - 🔭 I’m currently working on WEB DEVELOPMENT
-- 🌱 I’m currently learning Javascript, HTML5 and CSS
+- 🌱 I’m currently learning  HTML5, CSS, Javascript and React
 - 😄 Pronouns He/Him
 - <div align="center">
   <a href="https://github.com/PauloJunior10">
