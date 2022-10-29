@@ -6,7 +6,8 @@
 Here are some ideas to get you started: -->
 
 - 🔭 I’m currently working on WEB DEVELOPMENT
-- 🌱 I’m currently learning  HTML5, CSS, Javascript, React and Typescript.
+- 🌱 I’m currently learning Front -> HTML5, CSS, Javascript, React and Typescript.
+- 🌱 I’m currently learning Back -> Mysql, Nodejs, Express
 - 😄 Pronouns He/Him
 - 
 - <div align="center">
@@ -21,7 +22,9 @@ Here are some ideas to get you started: -->
   <img align="center" alt="PJ-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> -
   <img align="center" alt="PJ-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"> -
   <img align="center" alt="PJ-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> -
-  <img align="center" alt="PJ-CSS" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
+  <img align="center" alt="PJ-mysql" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"> - 
+  <img align="center" alt="PJ-nodejs" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg">
+          
   
 </div>
   
