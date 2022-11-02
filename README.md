@@ -7,7 +7,8 @@ Here are some ideas to get you started: -->
 
 - 🔭 I’m currently working on WEB DEVELOPMENT
 - 🌱 I’m currently learning Front -> HTML5, CSS, Javascript, React and Typescript.
-- 🌱 I’m currently learning Back -> Mysql, Nodejs, Express
+- 🌱 I’m currently learning Back -> Nodejs, Express 
+- 🌱 I’m currently learning Database -> Mysql
 - 😄 Pronouns He/Him
 - 
 - <div align="center">
